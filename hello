@@ -1,0 +1,3 @@
+public void main Straing args [] {
+System.out.print "Hello World"
+}
